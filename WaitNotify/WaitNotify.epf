@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project xmlns="" default_configuration_name="Configuration 1" file_encoding="GBK" language_type="2" ltd_name="java"
+    name="WaitNotify" workspace_directory="C:\Users\jgao2\workspace">
+    <Configuration
+        class_path="..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\resources.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\rt.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\jsse.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\jce.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\charsets.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\jfr.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\ext\access-bridge-32.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\ext\dnsns.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\ext\jaccess.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\ext\localedata.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\ext\sunec.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\ext\sunjce_provider.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\ext\sunmscapi.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\ext\sunpkcs11.jar;..\..\..\..\Program Files (x86)\Java\jdk1.7.0_45\jre\lib\ext\zipfs.jar;"
+        compiler_options=" -source 1.7 -target 1.7" jdk_path="C:\Program Files (x86)\Java\jdk1.7.0_45" name="Configuration 1"/>
+    <Source exclude="false" path="src" web="false"/>
+</Project>
